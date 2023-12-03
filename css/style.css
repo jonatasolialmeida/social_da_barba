@@ -1,0 +1,25 @@
+.logo {
+    width: 100%;
+    height: 50vh;
+    background-color: #1F1F1F;
+    margin-top: 6vh;
+}
+
+/* .separadNavLogo {
+    margin-top: 21vh;
+} */
+
+.imgLogo {
+    /* margin-top: 1.8%; */
+    width: 500px;
+}
+
+.imgQrCode {
+    margin-top: 4%;
+    width: 100px;
+}
+
+.logoInsta {
+    margin-top: 4%;
+    width: 90px;
+}
